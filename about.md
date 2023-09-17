@@ -3,11 +3,12 @@ layout: description
 title: About
 permalink: /about/
 ---
+Yo soy una persona con una pasión clara por el ejercicio y la actividad física. Su dedicación a mantener un estilo de vida saludable es admirable y se refleja en su constante compromiso con el deporte y el acondicionamiento físico.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+Yo no solo veo el ejercicio como una rutina, sino como una parte integral de su vida. Su entusiasmo por mantenerse en forma y promover un bienestar físico y mental es inspirador. A menudo se le puede encontrar en el gimnasio, participando en clases de fitness, corriendo al aire libre o explorando nuevas formas de mantenerse activo.
+<!-- 
 [Link to another page](./another-page.html).
-
+-->
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
