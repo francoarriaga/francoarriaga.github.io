@@ -23,3 +23,5 @@ Por último, el ejercicio físico es una parte esencial de mi vida. Ya sea corri
   
 </div>
 
+<img src="basquet.jpg" alt="" style="float: right;" width="100px" height="200px">
+
