@@ -3,11 +3,19 @@ layout: description
 title: About
 permalink: /about/
 ---
-Yo soy una persona con una pasión clara porla actividad física. Trato de mantener un estilo de vida saludable y esto se refleja en mi constante compromiso con el deporte y el acondicionamiento físico.
+Hola me llamo Franco Marthely Arriaga Pech y soy estudiante del Instituto Tecnológico de Cancún cursando la carrera de Ingenieria en Sistemas Computacionales, me gustaría concluir terminar esta carrera con los conocimientos necesarios para poder formar las bases de mi futuro.
 
-Yo no solo veo el ejercicio como una rutina, sino como una parte integral de su vida. Su entusiasmo por mantenerse en forma y promover un bienestar físico y mental es inspirador. A menudo se me puede encontrar en el parque corriendo al aire libre o explorando nuevas formas de mantenerse activo.
+
 <!-- 
 [Link to another page](./another-page.html).
 -->
-
+<div>
 <h2>Un poco mas sobre mi</h2>
+<p>
+            <img src="basquet.jpg" alt="" style="float: right;">
+            Me encanta el baloncesto, y no puedo evitar emocionarme cada vez que entro a una cancha y ver jugar a los deportista. Desde que era niño, este deporte ha sido una parte fundamental de mi vida aunque durante un tiempo en la adolecencia descuide mi peso. La sensación de la pelota en mis manos me genera una adrenalina que fluye cuando realizo un tiro, son experiencias que simplemente no puedo replicar en ninguna otra parte de mi vida.
+</p>
+
+  
+</div>
+
