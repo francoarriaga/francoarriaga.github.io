@@ -9,10 +9,6 @@ Yo no solo veo el ejercicio como una rutina, sino como una parte integral de su 
 <!-- 
 [Link to another page](./another-page.html).
 -->
-<!--
-# Un poco más sobre mí...
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
@@ -124,4 +120,3 @@ The final element.
 
 ## Emojis
 
--->
