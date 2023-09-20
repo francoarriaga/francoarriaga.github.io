@@ -10,7 +10,7 @@ Hola me llamo Franco Marthely Arriaga Pech y soy estudiante del Instituto Tecnol
 [Link to another page](./another-page.html).
 -->
 
-<img src="basquet.jpg" alt="No hay imagen" width="100px" height="100px" style="float:right;">
+<img src="b.jpg" alt="No hay imagen" width="100px" height="100px" style="float:right;">
 <div>
 <h2>Un poco mas sobre mi</h2>
 <p>
