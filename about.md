@@ -12,8 +12,8 @@ Hola me llamo Franco Marthely Arriaga Pech y soy estudiante del Instituto Tecnol
 <div>
 <h2>Un poco mas sobre mi</h2>
 <p>
-            <img src="basquet.jpg" alt="" style="float: right;">
-            Me encanta el baloncesto, y no puedo evitar emocionarme cada vez que entro a una cancha y ver jugar a los deportista. Desde que era niño, este deporte ha sido una parte fundamental de mi vida aunque durante un tiempo en la adolecencia descuide mi peso. La sensación de la pelota en mis manos me genera una adrenalina que fluye cuando realizo un tiro, son experiencias que simplemente no puedo replicar en ninguna otra parte de mi vida.
+<img src="basquet.jpg" alt="" style="float: right;">
+Me encanta el baloncesto, y no puedo evitar emocionarme cada vez que entro a una cancha y ver jugar a los deportista. Desde que era niño, este deporte ha sido una parte fundamental de mi vida aunque durante un tiempo en la adolecencia descuide mi peso. La sensación de la pelota en mis manos me genera una adrenalina que fluye cuando realizo un tiro, son experiencias que simplemente no puedo replicar en ninguna otra parte de mi vida.
 </p>
 
   
