@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Hola, bienvenido a esta página... Sólo se feliz
+home_text: Bienvenido a esta página... Sólo se feliz
 title: Franco Arriaga
 ---
