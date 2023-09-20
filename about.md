@@ -3,13 +3,13 @@ layout: description
 title: About
 permalink: /about/
 ---
-Yo soy una persona con una pasión clara por el ejercicio y la actividad física. Su dedicación a mantener un estilo de vida saludable es admirable y se refleja en su constante compromiso con el deporte y el acondicionamiento físico.
+Yo soy una persona con una pasión clara porla actividad física. Trato de mantener un estilo de vida saludable y esto se refleja en mi constante compromiso con el deporte y el acondicionamiento físico.
 
-Yo no solo veo el ejercicio como una rutina, sino como una parte integral de su vida. Su entusiasmo por mantenerse en forma y promover un bienestar físico y mental es inspirador. A menudo se me puede encontrar en el gimnasio, participando en clases de fitness, corriendo al aire libre o explorando nuevas formas de mantenerse activo.
+Yo no solo veo el ejercicio como una rutina, sino como una parte integral de su vida. Su entusiasmo por mantenerse en forma y promover un bienestar físico y mental es inspirador. A menudo se me puede encontrar en el parque corriendo al aire libre o explorando nuevas formas de mantenerse activo.
 <!-- 
 [Link to another page](./another-page.html).
 -->
-
+<!--
 # Un poco más sobre mí...
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -123,3 +123,5 @@ The final element.
 ```
 
 ## Emojis
+
+-->
