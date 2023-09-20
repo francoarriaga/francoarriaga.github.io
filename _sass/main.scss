@@ -23,6 +23,11 @@ body {
   // font-size: 120%;
 }
 .mid-section-home img{
+display:flex;
+justify-content:center;
+  margin:auto;
+}
+.mid-section-home img{
   text-align: center;
   display: flex;
   flex-direction: column;
