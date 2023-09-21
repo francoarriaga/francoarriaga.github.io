@@ -22,6 +22,6 @@ Uno de mis granders hobbies cuando quiero relajarme y desconectarme, el cine es 
 Por último, el ejercicio físico es una parte esencial de mi vida. Ya sea corriendo al aire libre, haciendo pesas en el gimnasio o practicando deportes como el baloncesto, el ejercicio me mantiene en forma física y mental. Me da energía, me ayuda a mantenerme saludable y me permite despejar la mente.
         </p>
     </div>
-<img src="francoarriaga.github.io/screnshots/meme.jpg" alt="" width="100px" height="100px">
+<img src="/screnshots/meme.jpg" alt="" width="100px" height="100px">
   
 </div>
