@@ -17,7 +17,7 @@ Hola me llamo Franco Marthely Arriaga Pech y soy estudiante del Instituto Tecnol
 <br>
 <br>
  <div>
- <p><img class="cambiar" src="\leer.jpg" alt="" width="200px" height="200px" style="float:right">
+ <p><img class="cambiar" src="\leer.jpg" alt="" width="200px" height="200px" style="float:right; margin:10px">
 Además del baloncesto, me apasiona leer libros. Los libros son como puertas a otros mundos, y me encanta perderme en las historias y aventuras que encuentro entre sus páginas. Ya sea una novela de ciencia ficción que me transporta a lugares lejanos o un libro de no ficción que me enseña algo nuevo, siempre encuentro satisfacción y enriquecimiento en la lectura. Ademas de lectura esuchar música es otra de mis grandes pasiones. No hay nada como ponerse los auriculares y sumergirse en el ritmo y las letras de una canción. La música tiene el poder de expresar emociones que a veces no puedo poner en palabras y de acompañarme en cada momento de mi vida. Desde el hip-hop al rock c lásico, mi gusto musical es variado y siempre estoy en busca de nuevas canciones y artistas para explorar.
   <br>
  </p>
