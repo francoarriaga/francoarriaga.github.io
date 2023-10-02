@@ -3,7 +3,7 @@ layout: description
 title: About
 permalink: /about/
 ---
-Hola me llamo Franco Marthely Arriaga Pech y soy estudiante del Instituto Tecnológico de Cancún cursando la carrera de Ingenieria en Sistemas Computacionales, me gustaría concluir terminar esta carrera con los conocimientos necesarios para poder formar las bases de mi futuro. La idea de aprender a programar me emociona de una manera que es difícil de explicar. Imaginar que puedo escribir líneas de código que luego se convierten en aplicaciones útiles, sitios web dinámicos o incluso en inteligencia artificial, me llena de asombro y entusiasmo. Quiero ser capaz de crear soluciones tecnológicas para los problemas del mundo real y ser parte de la vanguardia de la innovación. 
+Hola me llamo Franco Marthely Arriaga Pech y soy estudiante del Instituto Tecnológico de Cancún cursando la carrera de Ingenieria en Sistemas Computacionales, me gustaría concluir terminar esta carrera con los conocimientos necesarios para poder formar las bases de mi futuro.<br> La idea de aprender a programar me emociona de una manera que es difícil de explicar. Imaginar que puedo escribir líneas de código que luego se convierten en aplicaciones útiles, sitios web dinámicos o incluso en inteligencia artificial, me llena de asombro y entusiasmo. Quiero ser capaz de crear soluciones tecnológicas para los problemas del mundo real y ser parte de la vanguardia de la innovación. 
 <br>
 <br>
 <hr>
