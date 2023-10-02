@@ -24,7 +24,7 @@ Además del baloncesto, me apasiona leer libros. Los libros son como puertas a o
  </div>
  
  <div>
- <p> <img class="cambiar" src="\cine.jpg" alt="" width="230px" height="230px" style="float:left; margin:"2px"">
+ <p> <img class="cambiar" src="\cine.jpg" alt="" width="230px" height="230px" style="float:left; margin:10px">
 Uno de mis granders hobbies cuando quiero relajarme y desconectarme, el cine es uno de esos lugares que son idoneos para mí, ya sea en una sala de cine o en mi propia casa, disfruto viendo películas de todo tipo. Me sumerjo en las historias, admiro la cinematografía y me dejo llevar por las emociones que las películas transmiten. Desde películas de acción llenas de adrenalina hasta dramas conmovedores, encuentro inspiración y entretenimiento en el mundo del cine.
 Por último, el ejercicio físico es una parte esencial de mi vida. Ya sea corriendo al aire libre, haciendo pesas en el gimnasio o practicando deportes como el baloncesto, el ejercicio me mantiene en forma física y mental. Me da energía, me ayuda a mantenerme saludable y me permite despejar la mente.
         </p>
